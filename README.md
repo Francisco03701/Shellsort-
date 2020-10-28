@@ -28,3 +28,4 @@ En este segmento del código se muestra el arreglo ordenado
 En esta parte de la cpmpilacion se muestra el arreglo o numeros ordenados 
 
 ![image](https://user-images.githubusercontent.com/71095993/97504353-50d80a80-193c-11eb-912d-21ca27350086.png)
+
