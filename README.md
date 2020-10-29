@@ -1,4 +1,5 @@
 # Shellsort-
+
 Este programa fue realizado en dev c++ utilizando el método Shellsort  
 
 En este segmento del código damos a conocer las variables y el ordenamiento shellsort 
