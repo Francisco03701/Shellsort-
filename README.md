@@ -26,7 +26,7 @@ En este segmento del código se muestra el arreglo ordenado
 
 ![image](https://user-images.githubusercontent.com/71095993/97503888-803a4780-193b-11eb-86af-c9806e0d18ef.png)
 
-En esta parte de la cpmpilacion se muestra el arreglo o numeros ordenados 
+En esta parte de la cpmpilacion se muestra el arreglo o números ordenados 
 
 ![image](https://user-images.githubusercontent.com/71095993/97504353-50d80a80-193c-11eb-912d-21ca27350086.png)
 
